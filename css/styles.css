@@ -1087,6 +1087,7 @@ body *{
 
     .input0{
         line-height: 19px;
+        color: #FFFFFF;
     }
 
     .input1::placeholder{
